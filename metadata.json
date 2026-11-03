@@ -1,0 +1,6 @@
+{
+  "name": "YupiForge",
+  "description": "Editor profesional de imágenes con capas, ajustes, filtros, dibujo y herramientas inteligentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
